@@ -22,4 +22,4 @@ class   atm(object):
         print (Pin)
     
     
-
+atm()
